@@ -1,0 +1,10 @@
+#cache do python
+__pycache__
+
+#senhas
+.env
+
+#tarefas e novas ideias
+paraAtualizar.txt
+
+/ideia antiga de API
